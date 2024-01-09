@@ -50,7 +50,7 @@ function Body() {
         <div className=" px-[16px] py-[10px] flex flex-row  justify-between ">
           {" "}
           <div className="border-2 border-gray-100 flex items-center space-x-3 px-2 rounded-md  ">
-            <img src="/public/Search1.png" alt="icon" className="absolute" />
+            <img src="/Search1.png" alt="icon" className="absolute" />
             <input
               type="text"
               className="w-[248px]  p-3 outline-none "
