@@ -85,7 +85,7 @@ function Body() {
             </thead>
             <tbody>
               <tr key={1}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500 ">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
