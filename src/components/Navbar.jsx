@@ -12,7 +12,7 @@ import { CiWallet } from "react-icons/ci";
 import { LuUsers } from "react-icons/lu";
 function Navbar() {
   return (
-    <div className=" flex flex-col w-full h-[1482px] items-center py-[16px] px-[10px] bg-[rgb(30,38,64)]  text-white  border-2 border-gray-200">
+    <div className=" flex flex-col w-full h-[1482px] items-center py-[16px] px-[10px] bg-[rgb(30,38,64)] min-w-[220px]  text-white  border-2 border-gray-200">
       <div className="flex flex-row gap-4 items-end ">
         {" "}
         <a href="#">
@@ -38,7 +38,7 @@ function Navbar() {
         </svg>
       </div>
 
-      <ul className="mt-10  w-[224px]  flex flex-col items-start text-[14px] ">
+      <ul className="mt-10  w-full  flex flex-col items-start text-[14px] ">
         <li className=" flex flex-row items-center gap-[12px] mt-2 hover:bg-[#353C53] w-full px-[16px] py-[8px] rounded-md hover:cursor-pointer ">
           <img src="/NavbarIcon.png" alt="icon" />
           Home
@@ -89,7 +89,7 @@ function Navbar() {
           Plugins
         </li>
       </ul>
-      <div className=" flex flex-row flex-wrap gap-x-[12px] absolute bottom-10  py-[6px] px-[12px] rounded-md bg-[#353C53] w-[192px] ">
+      <div className=" flex flex-row flex-wrap gap-x-[12px] absolute bottom-10  py-[6px] px-[12px] rounded-md bg-[#353C53] w-3/4 ">
         <img src="/wallet.svg" alt="icon" />
         <p>Available credits</p>
         <div className="flex justify-center items-center w-full">

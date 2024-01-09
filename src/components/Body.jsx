@@ -22,7 +22,7 @@ function Body() {
   };
 
   return (
-    <div className="flex flex-col justify-center px-[44px] py-[40px] items-center bg-gray-100 ">
+    <div className="flex flex-col justify-center px-[44px] py-[40px] items-center bg-gray-100  min-w-[750px] ">
       <div className="flex flex-row justify-between w-full mb-[24px] ">
         <h2 className="text-[20px] font-medium ">Overview</h2>
 
@@ -50,7 +50,7 @@ function Body() {
         <div className=" px-[16px] py-[10px] flex flex-row  justify-between ">
           {" "}
           <div className="border-2 border-gray-100 flex items-center space-x-3 px-2 rounded-md  ">
-            <img src="/Search1.png" alt="icon" className="absolute" />
+            <img src="/Search1.png" alt="icon" className="relative" />
             <input
               type="text"
               className="w-[248px]  p-3 outline-none "

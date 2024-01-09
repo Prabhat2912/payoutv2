@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="flex flex-row px-[32px] py-[12px] gap-x-[16px]  justify-start items-center border-2 border-gray-200 w-[1275px]">
+    <header className="flex flex-row px-[32px] py-[12px] gap-x-[16px]  justify-start items-center border-2 border-gray-200 w-full min-w-[750px]">
       <h1>Payments</h1>
       <div className="flex flex-row gap-x-[6px] w-full ">
         <img src="/Help.png" alt="" />
@@ -22,7 +22,7 @@ const Header = () => {
           <img src="/Group.png" alt="icon" />
         </div>
         <img
-          src="/public/Menu.png"
+          src="/Menu.png"
           alt="icon"
           width={40}
           height={40}

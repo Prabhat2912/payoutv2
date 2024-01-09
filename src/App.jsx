@@ -11,11 +11,11 @@ function App() {
 
   return (
     <>
-      <div className="flex flex-row justify-start items-start ">
-        <div className="flex flex-col  justify-start sticky">
+      <div className="flex flex-row justify-start items-start w-full min-w[220px] ">
+        <div className="flex flex-col  justify-start sticky w-1/5 min-w[750px] ">
           <Navbar />
         </div>
-        <div>
+        <div className="w-full">
           <Header />
           <Body />
         </div>
