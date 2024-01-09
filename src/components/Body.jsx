@@ -91,139 +91,139 @@ function Body() {
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={2}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={3}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500 ">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={4}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={5}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={6}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500 ">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={7}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left  text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={8}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left  text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={9}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left  text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={10}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left  text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={11}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500 ">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={12}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={13}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={14}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500 ">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={15}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={16}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left  text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={17}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500 ">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={18}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left  text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={19}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={20}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={21}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={22}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={23}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
               </tr>
               <tr key={24}>
-                <td className=" px-4 py-2 text-left ">#281209</td>
+                <td className=" px-4 py-2 text-left text-blue-500">#281209</td>
                 <td className=" px-4 py-2 text-left  ">7 July, 2023</td>
                 <td className=" px-4 py-2 text-right  ">₹1,278.23</td>
                 <td className=" px-4 py-2 text-right  ">₹22</td>
