@@ -89,7 +89,7 @@ function Navbar() {
           Plugins
         </li>
       </ul>
-      <div className=" flex flex-row flex-wrap gap-x-[12px] absolute bottom-10  py-[6px] px-[12px] rounded-md bg-[#353C53] w-3/4 ">
+      <div className=" flex flex-row flex-wrap gap-x-[12px] absolute bottom-10  py-[6px] px-[12px] rounded-md bg-[#353C53] w-4/5 ">
         <img src="/wallet.svg" alt="icon" />
         <p>Available credits</p>
         <div className="flex justify-center items-center w-full">
