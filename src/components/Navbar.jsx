@@ -16,7 +16,7 @@ function Navbar() {
       <div className="flex flex-row gap-4 items-end ">
         {" "}
         <a href="#">
-          <img src="/Image.png" width={80} />
+          <img src="/Image.png" width={60} />
         </a>
         <div className="flex flex-col">
           <h3>Nishyan</h3>
