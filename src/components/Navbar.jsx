@@ -16,7 +16,7 @@ function Navbar() {
       <div className="flex flex-row gap-4 items-end ">
         {" "}
         <a href="#">
-          <img src="/public/Image.png" width={80} />
+          <img src="/Image.png" width={80} />
         </a>
         <div className="flex flex-col">
           <h3>Nishyan</h3>
@@ -40,57 +40,57 @@ function Navbar() {
 
       <ul className="mt-10  w-[224px]  flex flex-col items-start text-[14px] ">
         <li className=" flex flex-row items-center gap-[12px] mt-2 hover:bg-[#353C53] w-full px-[16px] py-[8px] rounded-md hover:cursor-pointer ">
-          <img src="/public/Navbar Icon.png" alt="icon" />
+          <img src="/NavbarIcon.png" alt="icon" />
           Home
         </li>
         <li className="flex flex-row items-center gap-[12px] mt-2 w-full hover:bg-[#353C53] px-[16px] py-[8px] rounded-md hover:cursor-pointer ">
-          <img src="/public/2.png" alt="icon" />
+          <img src="/2.png" alt="icon" />
           Orders
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] flex w-full flex-row items-center gap-[12px] rounded-md hover:cursor-pointer ">
-          <img src="/public/3.png" alt="icon" />
+          <img src="/3.png" alt="icon" />
           Products
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] flex w-full flex-row items-center gap-[12px] rounded-md hover:cursor-pointer ">
-          <img src="/public/4.svg" alt="icon" />
+          <img src="/4.svg" alt="icon" />
           Delivery
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] w-full rounded-md hover:cursor-pointer flex flex-row items-center gap-[12px] ">
-          <img src="/public/5.svg" alt="icon" />
+          <img src="/5.svg" alt="icon" />
           Marketing
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] w-full rounded-md hover:cursor-pointer flex flex-row items-center gap-[12px] ">
-          <img src="/public/6.svg" alt="icon" />
+          <img src="/6.svg" alt="icon" />
           Analytics
         </li>
 
         <li className="mt-2 hover:bg-[#353C53] w-full px-[16px] py-[8px] rounded-md hover:cursor-pointer flex flex-row items-center gap-[12px] ">
-          <img src="/public/8.svg" alt="icon" />
+          <img src="/8.svg" alt="icon" />
           Payments
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] rounded-md w-full hover:cursor-pointer flex flex-row items-center gap-[12px] ">
-          <img src="/public/9.svg" alt="icon" />
+          <img src="/9.svg" alt="icon" />
           Tools
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] w-full rounded-md hover:cursor-pointer flex flex-row items-center gap-[12px] ">
-          <img src="/public/10.svg" alt="icon" />
+          <img src="/10.svg" alt="icon" />
           Discounts
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] w-full rounded-md hover:cursor-pointer flex flex-row items-center gap-[12px] ">
-          <img src="/public/11.svg" alt="icon" />
+          <img src="/11.svg" alt="icon" />
           Audience
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] w-full rounded-md hover:cursor-pointer flex flex-row items-center gap-[12px] ">
-          <img src="/public/12.png" alt="icon" />
+          <img src="/12.png" alt="icon" />
           Appearance
         </li>
         <li className="mt-2 hover:bg-[#353C53] px-[16px] py-[8px] w-full rounded-md hover:cursor-pointer flex flex-row items-center gap-[12px] ">
-          <img src="/public/13.png" alt="icon" />
+          <img src="/13.png" alt="icon" />
           Plugins
         </li>
       </ul>
       <div className=" flex flex-row flex-wrap gap-x-[12px] absolute bottom-10  py-[6px] px-[12px] rounded-md bg-[#353C53] w-[192px] ">
-        <img src="/public/wallet.svg" alt="icon" />
+        <img src="/wallet.svg" alt="icon" />
         <p>Available credits</p>
         <div className="flex justify-center items-center w-full">
           <h5>222.10</h5>

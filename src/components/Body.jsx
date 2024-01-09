@@ -60,10 +60,10 @@ function Body() {
           <div className="flex flex-row gap-[12px] ">
             <button className="w-full  border-2 border-gray-100 flex items-center justify-center gap-2  px-5 rounded-md ">
               Sort
-              <img src="/public/Sort.png" alt="icon" className="" />{" "}
+              <img src="/Sort.png" alt="icon" className="" />{" "}
             </button>
             <button className="w-full  border-2 border-gray-100 flex items-center justify-center   px-2 rounded-md ">
-              <img src="/public/down.png" alt="icon" className="" />{" "}
+              <img src="/down.png" alt="icon" className="" />{" "}
             </button>
           </div>
         </div>

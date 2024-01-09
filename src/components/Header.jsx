@@ -19,7 +19,7 @@ const Header = () => {
       <div className="flex flex-row gap-[12px] items-center justify-end w-full   ">
         <div className="w-[40px] h-[40px] rounded-full bg-gray-300 flex p-3">
           {" "}
-          <img src="/public/Group.png" alt="icon" />
+          <img src="/Group.png" alt="icon" />
         </div>
         <img
           src="/public/Menu.png"
