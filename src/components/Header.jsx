@@ -9,7 +9,7 @@ const Header = () => {
         <p className="text-[12px]">How it works</p>
       </div>
       <div className="flex flex-row  items-center px-[16px] py-[9px] bg-gray-100 space-x-2 rounded-md   ">
-        <img src="/public/search.png" alt="icon" className="absolute " />
+        <img src="/search.png" alt="icon" className="absolute " />
         <input
           type="text"
           placeholder="Search..."
